@@ -49,6 +49,6 @@ RETURN
         totalUnits
     )
 ```
-## The Dasboard
+## The Dashboard
  ![Data Model](./dashboard.png)
 
