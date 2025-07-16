@@ -26,7 +26,6 @@ This project showcases a Power BI dashboard built for **BECO**, designed to anal
 ## Data Modeling
 
 - Created relationships:
-- 
 The model below illustrates how tables are connected in Power BI.
 ![Data Model](./data-model.png)
 
@@ -34,7 +33,7 @@ The model below illustrates how tables are connected in Power BI.
  ![Data Model](./data-model1.png)
 
 
-## 🧮 DAX Measures
+## DAX Measures
 
 ```DAX
 Total sales = 
@@ -49,3 +48,7 @@ RETURN
         0, 
         totalUnits
     )
+```
+## The Dasboard
+ ![Data Model](./dashboard.png)
+
