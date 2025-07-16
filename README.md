@@ -15,7 +15,8 @@ This project showcases a Power BI dashboard built for **BECO**, designed to anal
 
 ## Data Cleaning (Power Query)
 
-- Filtered only "Customer" entries from master data
+- Removing some columns which are not
+  require for further analysis.
 - Capitalized inconsistent text (e.g., `KARNATAKA` → `Karnataka`)
 - Rounded numerical fields to 2 decimal places
 - Created `ExactQuantity` to convert negative return quantities to positive
