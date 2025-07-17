@@ -8,7 +8,7 @@ This project showcases a Power BI dashboard built for **BECO**, designed to anal
 
 - `Sales Dump.xlsx` 
 - `Customer Master.xlsx` 
-- `Inventory Warehouse Report_15-07-2025.xlsx` 
+- `Inventory Warehouse Report.xlsx` 
 - `Pack of Conversion.xlsx` 
 
 ---
